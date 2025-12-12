@@ -1,4 +1,3 @@
-
 # -------------------------
 # Progressive censored sample generator
 # qfunc : quantile function F^{-1}(u, alpha, beta)

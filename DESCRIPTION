@@ -1,17 +1,11 @@
 Package: PivotalEstimates
 Type: Package
-Title: Pivotal-Based Inference for Block Progressively Censored Data
+Title: What the Package Does (Title Case)
 Version: 0.1.0
-Author: Kundan Singh
-Maintainer: Kundan Singh 
-Description: This package provides functions for performing pivotal-based
-    parameter estimation under block progressive censoring schemes.
-    It implements Monte Carlo based pivotal inference for estimating
-    a common shape parameter and block-specific as well as pooled
-    scale parameters of lifetime distributions. The methods are
-    particularly useful in reliability analysis, life-testing
-    experiments, and survival analysis involving progressively
-    censored data.
-License: GPL-3
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
 Encoding: UTF-8
-
+LazyData: true

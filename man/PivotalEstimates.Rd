@@ -13,7 +13,7 @@ PivotalEstimates(aa, bb, rr, gt, mm, nn)
 }
 \arguments{
   \item{aa}{
-Lower bound of the search interval for the shape parameter \eqn{\alpha}
+Lower bound of the search interval for the shape parameter \eqn{\alpha} of two-parameter Weibull distribution
 used in the bisection method.
 }
   \item{bb}{
@@ -26,7 +26,7 @@ A list of progressive censoring schemes. Each element is a vector
 }
   \item{gt}{
 A list of observed progressively censored samples. Each element
-corresponds to the observed failure times from a block.
+corresponds to the observed failure times from a block under Weibull model.
 }
   \item{mm}{
 A numeric vector containing the effective sample sizes

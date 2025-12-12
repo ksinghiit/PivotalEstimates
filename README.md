@@ -1,15 +1,8 @@
----
-title: "PivotalEstimates"
-date: "2025-12-12"
----
 ````md
 # PivotalEstimates
-
 An R package for **pivotal-based parameter estimation** under
-**Block Progressive Type-II Censoring Schemes (BPCS)**.
-The package is designed for reliability and life-testing experiments
-where data are collected from multiple testing facilities (blocks)
-under progressive censoring.
+**Block Progressive Type-II Censoring Schemes (BPCS)**, with a focus on
+the **Weibull distribution**.
 
 ---
 

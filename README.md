@@ -101,7 +101,7 @@ PivotalEstimates(aa, bb, rr, gt, mm, nn)
 
 * `aa`, `bb` : lower and upper bounds for solving the pivotal equation for ( \alpha )
 * `rr` : list of progressive censoring schemes (one per block)
-* `gt` : list of observed progressively censored samples
+* `gt` : list of observed progressively censored samples (X) for Weibull distribution but it can be change for other Shape-Scale Family of distribution
 * `mm` : vector of effective sample sizes
 * `nn` : vector of initial sample sizes
 

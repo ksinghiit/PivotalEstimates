@@ -1,8 +1,6 @@
 ---
 title: "PivotalEstimates"
-author: "Kundan Singh"
 date: "2025-12-12"
-output: html_document
 ---
 ````md
 # PivotalEstimates
